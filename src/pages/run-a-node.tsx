@@ -805,7 +805,7 @@ const RunANodePage = ({ data }: PageProps<Queries.RunANodePageQuery>) => {
             <ButtonContainer>
               <ButtonLink
                 leftIcon={<FaDiscord />}
-                to="https://discord.gg/c28an8dA5k"
+                to="https://discord.gg/dappnode"
               >
                 <Translation id="page-run-a-node-community-link-1" />
               </ButtonLink>
